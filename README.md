@@ -19,3 +19,5 @@ Every USD is equal to 30,000 Tomans (Extra Info).
 In this dataset, some houses do not have addresses, and also the size of some houses is entered incorrectly (they have a very large value). For this purpose, you should also manage these items and remove them from your dataset.
 
 Take care about outliers & noises.
+
+Dataset: <https://www.kaggle.com/datasets/mokar2001/house-price-tehran-iran>
